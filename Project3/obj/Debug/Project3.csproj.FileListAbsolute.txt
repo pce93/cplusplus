@@ -1,0 +1,6 @@
+c:\users\pablo\source\repos\Project3\bin\Debug\Project3.exe.config
+c:\users\pablo\source\repos\Project3\bin\Debug\Project3.exe
+c:\users\pablo\source\repos\Project3\bin\Debug\Project3.pdb
+c:\users\pablo\source\repos\Project3\obj\Debug\Project3.csproj.CoreCompileInputs.cache
+c:\users\pablo\source\repos\Project3\obj\Debug\Project3.exe
+c:\users\pablo\source\repos\Project3\obj\Debug\Project3.pdb
