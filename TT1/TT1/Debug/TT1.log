@@ -1,0 +1,6 @@
+﻿  trendtracker.cpp
+c:\users\pablo\desktop\school\fall 2019\3333\tt1\tt1\trendtracker.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\desktop\school\fall 2019\3333\tt1\tt1\trendtracker.cpp(97): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  TT1.vcxproj -> C:\Users\pablo\Desktop\School\Fall 2019\3333\TT1\TT1\Debug\TT1.exe

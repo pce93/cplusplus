@@ -1,0 +1,30 @@
+﻿  main.cpp
+main.cpp(21): warning C4018: '<': signed/unsigned mismatch
+main.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(141): warning C4018: '>': signed/unsigned mismatch
+  c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(125): note: while compiling class template member function 'void MinPriorityQueue<char>::decrease_key(T,int)'
+          with
+          [
+              T=char
+          ]
+  main.cpp(394): note: see reference to function template instantiation 'void MinPriorityQueue<char>::decrease_key(T,int)' being compiled
+          with
+          [
+              T=char
+          ]
+  main.cpp(363): note: see reference to class template instantiation 'MinPriorityQueue<char>' being compiled
+c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(149): warning C4018: '>': signed/unsigned mismatch
+c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(83): warning C4018: '<': signed/unsigned mismatch
+  c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(68): note: while compiling class template member function 'void MinPriorityQueue<char>::pop(void)'
+  main.cpp(382): note: see reference to function template instantiation 'void MinPriorityQueue<char>::pop(void)' being compiled
+c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(85): warning C4018: '>': signed/unsigned mismatch
+c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(87): warning C4018: '<=': signed/unsigned mismatch
+c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(87): warning C4018: '>': signed/unsigned mismatch
+c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(104): warning C4018: '>': signed/unsigned mismatch
+c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(112): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(61): warning C4715: 'MinPriorityQueue<char>::front': not all control paths return a value
+c:\users\pablo\desktop\school\fall 2019\3333\pq\minpriorityqueue.h(61): warning C4715: 'MinPriorityQueue<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >::front': not all control paths return a value
+  All 750 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PQ.vcxproj -> C:\Users\pablo\Desktop\School\Fall 2019\3333\PQ\Release\PQ.exe

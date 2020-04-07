@@ -1,0 +1,5 @@
+﻿  main.cpp
+  autocompleter.cpp
+c:\users\pablo\desktop\school\fall 2019\3333\ac2\autocompleter.cpp(59): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  AC2.vcxproj -> C:\Users\pablo\Desktop\School\Fall 2019\3333\AC2\Debug\AC2.exe

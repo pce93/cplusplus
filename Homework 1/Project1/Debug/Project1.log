@@ -1,0 +1,9 @@
+﻿  trendtracker.cpp
+c:\users\pablo\desktop\school\spring 2019\algorithms & data structures\homework 2\project1\trendtracker.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\desktop\school\spring 2019\algorithms & data structures\homework 2\project1\trendtracker.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\desktop\school\spring 2019\algorithms & data structures\homework 2\project1\trendtracker.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\desktop\school\spring 2019\algorithms & data structures\homework 2\project1\trendtracker.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\pablo\desktop\school\spring 2019\algorithms & data structures\homework 2\project1\trendtracker.cpp(108): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating Code...
+  Project1.vcxproj -> C:\Users\pablo\Desktop\School\Spring 2019\Algorithms & Data Structures\Homework 2\Project1\Debug\Project1.exe
